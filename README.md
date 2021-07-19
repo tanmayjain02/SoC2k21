@@ -12,7 +12,7 @@ This task consits of Python Library Pandas exercises, which extract information 
 
  2) **Task 2 : A2**
 
- This task consits of Python Library Matplotlib exercises, in this task we plot different graphsand histograms from the information extracted from dataset.  
+ This task consits of Python Library Matplotlib exercises, in this task we plot different graphs and histograms from the information extracted from dataset.  
  
  **Checkpoint 2 : 8 June 2021**
  
