@@ -4,6 +4,8 @@
 
 Mentor : Prayas Jain, Vanshika Gupta
 
+**Checkpoint 1 : 11 April 2021**
+
 1) **Task 1 : A1**
 
 This task consits of Python Library Pandas exercises, which extract information from a dataset.
@@ -12,6 +14,8 @@ This task consits of Python Library Pandas exercises, which extract information 
 
  This task consits of Python Library Matplotlib exercises, in this task we plot different graphsand histograms from the information extracted from dataset.  
  
+ **Checkpoint 2 : 8 June 2021**
+ 
  3) **Task 4 : B3**
  
  In this task we used OpenCV to find the Gender and Age of the person using webcam feed.
@@ -19,6 +23,8 @@ This task consits of Python Library Pandas exercises, which extract information 
  4) **Task 5: B4**
                     
  This task is also simmilar to task 4, but intead of webcame feed we provide a YouTube video.
+ 
+ **Checkpoint 3 : 18 July 2021**
  
  5) **Task 6: C1**
  
