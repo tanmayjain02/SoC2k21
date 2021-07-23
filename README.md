@@ -2,7 +2,7 @@
 
 ***Project : Facial Recognition App***
 
-Mentor : Prayas Jain, Vanshika Gupta
+Mentor : Prayas Jain
 
 **Checkpoint 1 : 11 April 2021**
 
