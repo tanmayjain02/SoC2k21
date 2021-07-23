@@ -8,7 +8,7 @@ Mentor : Prayas Jain, Vanshika Gupta
 
 1) **Task 1 : A1**
 
-This task consits of Python Library Pandas exercises, which extract information from a dataset.
+This task consist of Python Library Pandas exercises, which extract information from a dataset.
 
  2) **Task 2 : A2**
 
@@ -22,7 +22,7 @@ This task consits of Python Library Pandas exercises, which extract information 
 
  4) **Task 5: B4**
                     
- This task is also simmilar to task 4, but intead of webcame feed we provide a YouTube video.
+ This task is also similar to task 4, but instead of webcam feed we provide a YouTube video.
  
  **Checkpoint 3 : 18 July 2021**
  
@@ -32,6 +32,6 @@ This task consits of Python Library Pandas exercises, which extract information 
 
  6) **Task 7: C2**
                      
- This task is the implementatin of all above tasks to build a ML Model in which we train to it recongise faces.
+ This task is the implementation of all above tasks to build a ML Model in which we train to it recongnise faces.
  We provide a feed of same face to train the model, after which the model can detect the faces and cluster the similar faces together.
             
